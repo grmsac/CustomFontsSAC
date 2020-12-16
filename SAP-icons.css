@@ -1,0 +1,12 @@
+/* SAP Fiori Icons */
+content-type: text/css;
+
+@font-face {
+	font-family: 'SAP Fiori Icons';
+	src:
+		url('https://dev.azure.com/EA-Graham/Swamp/_git/SAC-Architecture-Fonts?version=GBmaster&path=%2FSAP-icons.woff2') format('woff2'),
+		url('https://dev.azure.com/EA-Graham/Swamp/_git/SAC-Architecture-Fonts?version=GBmaster&path=%2FSAP-icons.woff') format('woff'),
+		url('https://dev.azure.com/EA-Graham/Swamp/_git/SAC-Architecture-Fonts?version=GBmaster&path=%2FSAP-icons.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
